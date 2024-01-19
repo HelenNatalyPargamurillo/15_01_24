@@ -1,0 +1,12 @@
+Algoritmo sumadedosnumeros
+	Escribir "introducir un primer n1" n1
+	leer a
+	
+	escribir "introducir otro numero " 
+	leer b
+    
+	resultado = a + b
+	escribir "el resultado de la suma es:" resultado
+	
+	
+FinAlgoritmo
